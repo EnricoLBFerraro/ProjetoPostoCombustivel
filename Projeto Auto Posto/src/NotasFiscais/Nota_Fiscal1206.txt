@@ -1,0 +1,11 @@
+Auto Posto Brigadeiro
+Rua Angelina Pena Botto, 34 CEP: 02066012
+Fone: (14)9964-45490
+--------------------
+2000-01-01
+--------------------
+CUPOM FISCAL
+Item   Quantia Descrição
+Etanol     10    Combustivel
+ Total = 100
+--------------------
